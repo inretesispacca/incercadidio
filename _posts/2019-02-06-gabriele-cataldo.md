@@ -13,6 +13,7 @@ st-blog-single-post-image-align:
 image: /wp-content/uploads/2019/01/treno.jpg
 categories:
   - "Uno sguardo sul presente (MERCOLEDI')"
+tags: ['sticky', 'featured']
 ---
 “_Sapere di non sapere è il principio del vero sapere_”. Il noto concetto di Socrate, filosofo greco, mi è tornato in mente di recente, nel corso del mio ultimo viaggio in treno da Cuneo a Torino. Mi sono accorto che una giovane signora, seduta di fronte a me, piangeva. Volevo ignorarla, ma ero dispiaciuto per questa situazione. Le ho chiesto se potessi fare qualcosa per lei.
 
