@@ -1,0 +1,26 @@
+---
+id: 1353
+title: Onore o ricchezza?
+date: 2020-11-06T11:00:15+01:00
+author: Jose Picco
+layout: revision
+guid: https://incercadidio.com/1349-revision-v1/
+permalink: /1349-revision-v1/
+---
+I sottintesi culturali sono l’elemento che più ci condiziona nella nostra comprensione del mondo. Proprio perché sono sottintesi, spesso non ce ne rendiamo neppure conto. Perché il sole dovrebbe essere maschile e la luna femminile? Può addirittura capitare che ci costruiamo sopra castelli di ragionamenti, finché non scopriamo che altre lingue ne invertono i generi, e si capiscono lo stesso (e i nostri ragionamenti vanno in frantumi). 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Il confronto con una cultura diversa è ancora più difficile che con una lingua straniera, perché di culture radicalmente lontane ce n’è meno che di lingue e perché è molto più facile di quanto non accada con le lingue non tenere conto della differenza, trattarle come se in fondo fossero la stessa cosa. In tal modo, non ci rendiamo neppure conto delle caratteristiche della _nostra_ cultura.<figure class="wp-block-image size-large is-resized">
+
+<img src="https://incercadidio.com/wp-content/uploads/2020/11/2-1.jpg" alt="" class="wp-image-1350" width="799" height="383" srcset="https://incercadidio.com/wp-content/uploads/2020/11/2-1.jpg 411w, https://incercadidio.com/wp-content/uploads/2020/11/2-1-300x144.jpg 300w" sizes="(max-width: 799px) 100vw, 799px" /> </figure> 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ad esempio, per noi è decisivo il rapportarci con la dimensione economica. Con i soldi. Il valore di una professione lo calcoliamo in quanto viene pagata, pensiamo che chi ha soldi si risolva tutti i problemi, arriviamo a valutare come più interessante un oggetto semplicemente perché costa di più&#8230; addirittura ci può capitare di strutturare delle attività di scambio gratuito di capacità e disponibilità personali, e le chiamiamo “_banche_ del tempo”. Questa centralità dell’economico ci è talmente connaturata che non ce ne accorgiamo, e che pensiamo che valga per tutti.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Bene, nella società antica tutta (ma vicinorientale ancora di più) questo non era vero. Le persone non venivano valutate per quanto erano ricche, ma per il proprio _onore_. La ricchezza poteva far guadagnare onore, certo, a patto che fosse spesa (in Atene ogni anno i cittadini più ricchi donavano alla città una nave da guerra o l’allestimento di un’opera teatrale, ed era questo a fare di loro persone autorevoli): non era la ricchezza in sé ma la munificenza, a guadagnarsi la stima, l’ammirazione e l’invidia dei cittadini. A mo’ di confronto, noi, più incentrati sulla ricchezza, pensiamo che l’essere importanti e conosciuti la possa _procurare_, e di fronte a un ricco che dà in beneficienza la carica di invidia viene ridotta. Per noi un extracomunitario ricco perde la sua caratteristica di “estraneo” e ritorna ad essere facilmente accettato; nell’antichità un ricchissimo cittadino qualunque di una comunità straniera non avrebbe neppure avuto modo di spendere i suoi tanti soldi. Se almeno fosse stato nobile, le cose potevano cambiare (un po’)&#8230;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; E questo onore, così centrale, si costruiva sull’adeguatezza del singolo alle aspettative sociali. Dai ricchi ci si aspettava che donassero tanto per le necessità comuni, ma se fosse stato un mendicante a farlo, sarebbe stato schernito, perché non è il suo ruolo (Mc 12,41-44). Quando nell’Antico Testamento ma anche nei vangeli qualcuno viene presentato come “ricco”, non è solo perché ha tanti soldi, ma perché è rispettato nel suo ruolo. <figure class="wp-block-image size-large is-resized">
+
+<img src="https://incercadidio.com/wp-content/uploads/2020/11/3.jpg" alt="" class="wp-image-1351" width="799" height="383" srcset="https://incercadidio.com/wp-content/uploads/2020/11/3.jpg 411w, https://incercadidio.com/wp-content/uploads/2020/11/3-300x144.jpg 300w" sizes="(max-width: 799px) 100vw, 799px" /> </figure> 
+
+Quando Davide rifiuta di uccidere Saul di nascosto (1 Sam 24), suggerisce anche di non essere quel brigante che pure sembra, ma di avere la dignità di un comandante, perché il ruolo del comandante prevede uno scontro leale. Quando a due ambasciatori un re taglia metà barba (2 Sam 10,4), quello è un atto di guerra, e non a caso Davide lascia che i suoi ambasciatori restino “in ritiro” finché la barba sia cresciuta: non avrebbe potuto ripagare in donazioni la vergogna di mostrarsi così. Un figlio “ribelle” va messo a morte (Dt 21,18-21&#8230; anche se probabilmente questa pena non è mai stata applicata) perché contesta l’autorità del padre, ossia il suo ruolo sociale, ossia non ne rispetta l’onore, non lo fa riconoscere come padre. E così via&#8230; (Quando in Mt 28,12-15 le guardie messe a custodia della tomba di Gesù accettano un pagamento per ammettere di non essere state in grado di compiere il proprio dovere, si svelano anche come guardie disonorevoli).
+
+Tutto nell’Antico Testamento e molto nel Nuovo andrebbe letto con questa precomprensione, che non è, spontaneamente, la nostra.
